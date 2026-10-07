@@ -1,8 +1,6 @@
 
 
-key : TAILSCALE_AUTHKEY
 
------------------------
 name: Windows Cloud RDP
 
 on:
